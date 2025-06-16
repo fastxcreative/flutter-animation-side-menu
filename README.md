@@ -1,4 +1,4 @@
-# Flutter animation challenge 1 - Left side menu
+# Flutter animation challenge 1 - left side menu
 
 A Flutter animation implementation based on Minh Pham's [3D Flip design](https://dribbble.com/shots/4773637-3D-flip-menu).
 
